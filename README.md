@@ -2,6 +2,9 @@
 
 This SDK allows You to generate from 1 to 2048 users at one time        
 
+## Installation
+`composer require kield-01/random-user-php-sdk`
+
 ## API
 
 `KielD01\RandomUser::__construct($version = null)`  
