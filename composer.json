@@ -1,0 +1,34 @@
+{
+  "name": "kield-01/random-user-php-sdk",
+  "description": "PHP SDK for the RandomUser.me service (https://randomuser.me/api/)",
+  "type": "library",
+  "require": {
+    "fabpot/goutte": "^3.2",
+    "ext-json": "*",
+    "symfony/var-dumper": "^4.1",
+    "nesbot/carbon": "^2.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "KielD01\\RandomUser\\": "src/"
+    },
+    "files": [
+      "src/Helpers/Functions.php"
+    ]
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Roman Kozin",
+      "email": "romanko95.rk@gmail.com"
+    }
+  ],
+  "keywords": [
+    "php5",
+    "sdk",
+    "random",
+    "user",
+    "randomuser",
+    "api"
+  ]
+}
