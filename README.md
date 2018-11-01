@@ -1,5 +1,10 @@
 # Random User PHP SDK
 
+[![Latest Stable Version](https://poser.pugx.org/kield-01/random-user-php-sdk/v/stable)](https://packagist.org/packages/kield-01/random-user-php-sdk)
+[![Total Downloads](https://poser.pugx.org/kield-01/random-user-php-sdk/downloads)](https://packagist.org/packages/kield-01/random-user-php-sdk)
+[![Daily Downloads](https://poser.pugx.org/kield-01/random-user-php-sdk/d/daily)](https://packagist.org/packages/kield-01/random-user-php-sdk)
+[![composer.lock](https://poser.pugx.org/kield-01/random-user-php-sdk/composerlock)](https://packagist.org/packages/kield-01/random-user-php-sdk)
+
 This SDK allows You to generate from 1 to 2048 users at one time        
 
 ## Installation
